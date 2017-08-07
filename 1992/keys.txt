@@ -1,0 +1,1865 @@
+:Afghanistan Geography
+:Afghanistan People
+:Afghanistan Government
+:Afghanistan Government
+:Afghanistan Economy
+:Afghanistan Economy
+:Afghanistan Communications
+:Afghanistan Defense Forces
+:Afghanistan Geography
+:Afghanistan People
+:Afghanistan Government
+:Afghanistan Government
+:Afghanistan Economy
+:Afghanistan Economy
+:Afghanistan Communications
+:Afghanistan Defense Forces
+:Albania Geography
+:Albania People
+:Albania Government
+:Albania Government
+:Albania Economy
+:Albania Economy
+:Albania Communications
+:Albania Defense Forces
+:Algeria Geography
+:Algeria People
+:Algeria Government
+:Algeria Government
+:Algeria Economy
+:Algeria Economy
+:Algeria Communications
+:Algeria Defense Forces
+:American Samoa Geography
+:American Samoa People
+:American Samoa Government
+:American Samoa Economy
+:American Samoa Communications
+:American Samoa Defense Forces
+:Andorra Geography
+:Andorra People
+:Andorra Government
+:Andorra Government
+:Andorra Economy
+:Andorra Communications
+:Andorra Defense Forces
+:Angola Geography
+:Angola People
+:Angola Government
+:Angola Economy
+:Angola Economy
+:Angola Communications
+:Angola Defense Forces
+:Anguilla Geography
+:Anguilla People
+:Anguilla Government
+:Anguilla Economy
+:Anguilla Communications
+:Anguilla Defense Forces
+:Antarctica Geography
+:Antarctica People
+:Antarctica Government
+:Antarctica Economy
+:Antarctica Communications
+:Antarctica Defense Forces
+:Antigua and Barbuda Geography
+:Antigua and Barbuda People
+:Antigua and Barbuda Government
+:Antigua and Barbuda Government
+:Antigua and Barbuda Economy
+:Antigua and Barbuda Communications
+:Antigua and Barbuda Defense Forces
+:Arctic Ocean Geography
+:Arctic Ocean Economy
+:Arctic Ocean Communications
+:Argentina Geography
+:Argentina People
+:Argentina Government
+:Argentina Government
+:Argentina Economy
+:Argentina Economy
+:Argentina Communications
+:Argentina Defense Forces
+:Armenia Geography
+:Armenia People
+:Armenia Government
+:Armenia Government
+:Armenia Economy
+:Armenia Economy
+:Armenia Communications
+:Armenia Defense Forces
+:Aruba Geography
+:Aruba People
+:Aruba Government
+:Aruba Economy
+:Aruba Communications
+:Aruba Defense Forces
+:Ashmore and Cartier Islands Geography
+:Ashmore and Cartier Islands People
+:Ashmore and Cartier Islands Government
+:Ashmore and Cartier Islands Economy
+:Ashmore and Cartier Islands Communications
+:Ashmore and Cartier Islands Defense Forces
+:Atlantic Ocean Geography
+:Atlantic Ocean Economy
+:Atlantic Ocean Communications
+:Australia Geography
+:Australia People
+:Australia Government
+:Australia Government
+:Australia Economy
+:Australia Economy
+:Australia Communications
+:Australia Defense Forces
+:Austria Geography
+:Austria People
+:Austria Government
+:Austria Government
+:Austria Economy
+:Austria Economy
+:Austria Communications
+:Austria Defense Forces
+:Azerbaijan Geography
+:Azerbaijan People
+:Azerbaijan Government
+:Azerbaijan Government
+:Azerbaijan Economy
+:Azerbaijan Communications
+:Azerbaijan Defense Forces
+:The Bahamas Geography
+:The Bahamas People
+:The Bahamas Government
+:The Bahamas Government
+:The Bahamas Economy
+:The Bahamas Communications
+:The Bahamas Defense Forces
+:Bahrain Geography
+:Bahrain People
+:Bahrain Government
+:Bahrain Economy
+:Bahrain Communications
+:Bahrain Defense Forces
+:Baker Island Geography
+:Baker Island People
+:Baker Island Government
+:Baker Island Economy
+:Baker Island Communications
+:Baker Island Defense Forces
+:Bangladesh Geography
+:Bangladesh People
+:Bangladesh Government
+:Bangladesh Government
+:Bangladesh Economy
+:Bangladesh Communications
+:Bangladesh Defense Forces
+:Barbados Geography
+:Barbados People
+:Barbados Government
+:Barbados Government
+:Barbados Economy
+:Barbados Communications
+:Barbados Defense Forces
+:Bassas da India Geography
+:Bassas da India People
+:Bassas da India Government
+:Bassas da India Economy
+:Bassas da India Communications
+:Bassas da India Defense Forces
+:Belarus Geography
+:Belarus People
+:Belarus Government
+:Belarus Economy
+:Belarus Economy
+:Belarus Communications
+:Belarus Defense Forces
+:Belgium Geography
+:Belgium People
+:Belgium Government
+:Belgium Government
+:Belgium Economy
+:Belgium Communications
+:Belgium Defense Forces
+:Belize Geography
+:Belize People
+:Belize Government
+:Belize Government
+:Belize Economy
+:Belize Communications
+:Belize Defense Forces
+:Benin Geography
+:Benin People
+:Benin Government
+:Benin Government
+:Benin Economy
+:Benin Communications
+:Benin Defense Forces
+:Bermuda Geography
+:Bermuda People
+:Bermuda Government
+:Bermuda Economy
+:Bermuda Communications
+:Bermuda Defense Forces
+:Bhutan Geography
+:Bhutan People
+:Bhutan Government
+:Bhutan Economy
+:Bhutan Communications
+:Bhutan Defense Forces
+:Bolivia Geography
+:Bolivia People
+:Bolivia Government
+:Bolivia Government
+:Bolivia Economy
+:Bolivia Economy
+:Bolivia Communications
+:Bolivia Defense Forces
+:Bosnia and Herzegovina Geography
+:Bosnia and Herzegovina People
+:Bosnia and Herzegovina Government
+:Bosnia and Herzegovina Economy
+:Bosnia and Herzegovina Economy
+:Bosnia and Herzegovina Communications
+:Bosnia and Herzegovina Defense Forces
+:Botswana Geography
+:Botswana People
+:Botswana Government
+:Botswana Economy
+:Botswana Communications
+:Botswana Defense Forces
+:Bouvet Island Geography
+:Bouvet Island People
+:Bouvet Island Government
+:Bouvet Island Economy
+:Bouvet Island Communications
+:Bouvet Island Defense Forces
+:Brazil Geography
+:Brazil People
+:Brazil Government
+:Brazil Government
+:Brazil Economy
+:Brazil Economy
+:Brazil Communications
+:Brazil Defense Forces
+:British Indian Ocean Territory Geography
+:British Indian Ocean Territory People
+:British Indian Ocean Territory Government
+:British Indian Ocean Territory Economy
+:British Indian Ocean Territory Communications
+:British Indian Ocean Territory Defense Forces
+:British Virgin Islands Geography
+:British Virgin Islands People
+:British Virgin Islands Government
+:British Virgin Islands Economy
+:British Virgin Islands Communications
+:British Virgin Islands Defense Forces
+:Brunei Geography
+:Brunei People
+:Brunei Government
+:Brunei Economy
+:Brunei Communications
+:Brunei Defense Forces
+:Bulgaria Geography
+:Bulgaria People
+:Bulgaria Government
+:Bulgaria Government
+:Bulgaria Economy
+:Bulgaria Economy
+:Bulgaria Communications
+:Bulgaria Defense Forces
+:Burkina Geography
+:Burkina People
+:Burkina Government
+:Burkina Economy
+:Burkina Communications
+:Burkina Defense Forces
+:Burma Geography
+:Burma People
+:Burma Government
+:Burma Government
+:Burma Economy
+:Burma Economy
+:Burma Communications
+:Burma Defense Forces
+:Burundi Geography
+:Burundi People
+:Burundi Government
+:Burundi Government
+:Burundi Economy
+:Burundi Communications
+:Burundi Defense Forces
+:Cambodia Geography
+:Cambodia People
+:Cambodia Government
+:Cambodia Government
+:Cambodia Economy
+:Cambodia Communications
+:Cambodia Defense Forces
+:Cameroon Geography
+:Cameroon People
+:Cameroon Government
+:Cameroon Government
+:Cameroon Economy
+:Cameroon Economy
+:Cameroon Communications
+:Cameroon Defense Forces
+:Canada Geography
+:Canada People
+:Canada Government
+:Canada Government
+:Canada Economy
+:Canada Economy
+:Canada Communications
+:Canada Defense Forces
+:Cape Verde Geography
+:Cape Verde People
+:Cape Verde Government
+:Cape Verde Government
+:Cape Verde Economy
+:Cape Verde Economy
+:Cape Verde Communications
+:Cape Verde Defense Forces
+:Cayman Islands Geography
+:Cayman Islands People
+:Cayman Islands Government
+:Cayman Islands Economy
+:Cayman Islands Communications
+:Cayman Islands Defense Forces
+:Central African Republic Geography
+:Central African Republic People
+:Central African Republic Government
+:Central African Republic Government
+:Central African Republic Economy
+:Central African Republic Economy
+:Central African Republic Communications
+:Central African Republic Defense Forces
+:Chad Geography
+:Chad People
+:Chad Government
+:Chad Government
+:Chad Economy
+:Chad Economy
+:Chad Communications
+:Chad Defense Forces
+:Chile Geography
+:Chile People
+:Chile Government
+:Chile Government
+:Chile Economy
+:Chile Economy
+:Chile Communications
+:Chile Defense Forces
+:China Geography
+:China People
+:China Government
+:China Government
+:China Economy
+:China Economy
+:China Communications
+:China Defense Forces
+:Christmas Island Geography
+:Christmas Island People
+:Christmas Island Government
+:Christmas Island Economy
+:Christmas Island Communications
+:Christmas Island Defense Forces
+:Clipperton Island Geography
+:Clipperton Island People
+:Clipperton Island Government
+:Clipperton Island Economy
+:Clipperton Island Communications
+:Clipperton Island Defense Forces
+:Cocos Islands Geography
+:Cocos Islands People
+:Cocos Islands Government
+:Cocos Islands Economy
+:Cocos Islands Communications
+:Cocos Islands Defense Forces
+:Colombia Geography
+:Colombia People
+:Colombia Government
+:Colombia Government
+:Colombia Economy
+:Colombia Economy
+:Colombia Communications
+:Colombia Defense Forces
+:Comoros Geography
+:Comoros People
+:Comoros Government
+:Comoros Economy
+:Comoros Economy
+:Comoros Communications
+:Comoros Defense Forces
+:Congo Geography
+:Congo People
+:Congo Government
+:Congo Government
+:Congo Economy
+:Congo Economy
+:Congo Communications
+:Congo Defense Forces
+:Cook Islands Geography
+:Cook Islands People
+:Cook Islands Government
+:Cook Islands Economy
+:Cook Islands Communications
+:Cook Islands Defense Forces
+:Coral Sea Islands Geography
+:Coral Sea Islands People
+:Coral Sea Islands Government
+:Coral Sea Islands Economy
+:Coral Sea Islands Communications
+:Coral Sea Islands Defense Forces
+:Costa Rica Geography
+:Costa Rica People
+:Costa Rica Government
+:Costa Rica Government
+:Costa Rica Economy
+:Costa Rica Economy
+:Costa Rica Communications
+:Costa Rica Defense Forces
+:Croatia Geography
+:Croatia People
+:Croatia Government
+:Croatia Economy
+:Croatia Economy
+:Croatia Communications
+:Croatia Defense Forces
+:Cuba Geography
+:Cuba People
+:Cuba Government
+:Cuba Government
+:Cuba Economy
+:Cuba Economy
+:Cuba Communications
+:Cuba Defense Forces
+:Cyprus Geography
+:Cyprus People
+:Cyprus Government
+:Cyprus Government
+:Cyprus Economy
+:Cyprus Economy
+:Cyprus Communications
+:Cyprus Defense Forces
+:Czechoslovakia Geography
+:Czechoslovakia People
+:Czechoslovakia Government
+:Czechoslovakia Government
+:Czechoslovakia Economy
+:Czechoslovakia Economy
+:Czechoslovakia Communications
+:Czechoslovakia Defense Forces
+:Denmark Geography
+:Denmark People
+:Denmark Government
+:Denmark Government
+:Denmark Economy
+:Denmark Economy
+:Denmark Communications
+:Denmark Defense Forces
+:Djibouti Geography
+:Djibouti People
+:Djibouti Government
+:Djibouti Economy
+:Djibouti Communications
+:Djibouti Defense Forces
+:Dominica Geography
+:Dominica People
+:Dominica Government
+:Dominica Government
+:Dominica Economy
+:Dominica Communications
+:Dominica Defense Forces
+:Dominican Republic Geography
+:Dominican Republic People
+:Dominican Republic Government
+:Dominican Republic Government
+:Dominican Republic Economy
+:Dominican Republic Communications
+:Dominican Republic Defense Forces
+:Ecuador Geography
+:Ecuador People
+:Ecuador Government
+:Ecuador Government
+:Ecuador Economy
+:Ecuador Economy
+:Ecuador Communications
+:Ecuador Defense Forces
+:Egypt Geography
+:Egypt People
+:Egypt Government
+:Egypt Government
+:Egypt Economy
+:Egypt Economy
+:Egypt Communications
+:Egypt Defense Forces
+:El Salvador Geography
+:El Salvador People
+:El Salvador Government
+:El Salvador Government
+:El Salvador Government
+:El Salvador Economy
+:El Salvador Communications
+:El Salvador Defense Forces
+:Equatorial Guinea Geography
+:Equatorial Guinea People
+:Equatorial Guinea Government
+:Equatorial Guinea Government
+:Equatorial Guinea Economy
+:Equatorial Guinea Economy
+:Equatorial Guinea Communications
+:Equatorial Guinea Defense Forces
+:Estonia Geography
+:Estonia People
+:Estonia Government
+:Estonia Government
+:Estonia Economy
+:Estonia Economy
+:Estonia Communications
+:Estonia Defense Forces
+:Ethiopia Geography
+:Ethiopia People
+:Ethiopia Government
+:Ethiopia Government
+:Ethiopia Economy
+:Ethiopia Economy
+:Ethiopia Communications
+:Ethiopia Defense Forces
+:Europa Island Geography
+:Europa Island People
+:Europa Island Government
+:Europa Island Economy
+:Europa Island Communications
+:Europa Island Defense Forces
+:Falkland Islands (Islas Malvinas) Geography
+:Falkland Islands (Islas Malvinas) People
+:Falkland Islands (Islas Malvinas) Government
+:Falkland Islands (Islas Malvinas) Economy
+:Falkland Islands (Islas Malvinas) Communications
+:Falkland Islands (Islas Malvinas) Defense Forces
+:Faroe Islands Geography
+:Faroe Islands People
+:Faroe Islands Government
+:Faroe Islands Economy
+:Faroe Islands Communications
+:Faroe Islands Defense Forces
+:Fiji Geography
+:Fiji People
+:Fiji Government
+:Fiji Government
+:Fiji Economy
+:Fiji Communications
+:Fiji Defense Forces
+:Finland Geography
+:Finland People
+:Finland Government
+:Finland Government
+:Finland Economy
+:Finland Economy
+:Finland Communications
+:Finland Defense Forces
+:France Geography
+:France People
+:France Government
+:France Government
+:France Economy
+:France Economy
+:France Communications
+:France Defense Forces
+:French Guiana Geography
+:French Guiana People
+:French Guiana Government
+:French Guiana Economy
+:French Guiana Communications
+:French Guiana Defense Forces
+:French Polynesia Geography
+:French Polynesia People
+:French Polynesia Government
+:French Polynesia Government
+:French Polynesia Economy
+:French Polynesia Communications
+:French Polynesia Defense Forces
+:French Southern and Antarctic Lands Geography
+:French Southern and Antarctic Lands People
+:French Southern and Antarctic Lands Government
+:French Southern and Antarctic Lands Economy
+:French Southern and Antarctic Lands Communications
+:French Southern and Antarctic Lands Defense Forces
+:Gabon Geography
+:Gabon People
+:Gabon Government
+:Gabon Government
+:Gabon Economy
+:Gabon Economy
+:Gabon Communications
+:Gabon Defense Forces
+:The Gambia Geography
+:The Gambia People
+:The Gambia Government
+:The Gambia Government
+:The Gambia Economy
+:The Gambia Communications
+:The Gambia Defense Forces
+:Gaza Strip Geography
+:Gaza Strip People
+:Gaza Strip Government
+:Gaza Strip Economy
+:Gaza Strip Communications
+:Gaza Strip Defense Forces
+:Georgia Geography
+:Georgia People
+:Georgia Government
+:Georgia Government
+:Georgia Economy
+:Georgia Economy
+:Georgia Communications
+:Georgia Defense Forces
+:Germany Geography
+:Germany People
+:Germany Government
+:Germany Government
+:Germany Economy
+:Germany Economy
+:Germany Communications
+:Germany Defense Forces
+:Ghana Geography
+:Ghana People
+:Ghana Government
+:Ghana Economy
+:Ghana Communications
+:Ghana Defense Forces
+:Gibraltar Geography
+:Gibraltar People
+:Gibraltar Government
+:Gibraltar Economy
+:Gibraltar Communications
+:Gibraltar Defense Forces
+:Glorioso Islands Geography
+:Glorioso Islands People
+:Glorioso Islands Government
+:Glorioso Islands Economy
+:Glorioso Islands Communications
+:Glorioso Islands Defense Forces
+:Greece Geography
+:Greece People
+:Greece Government
+:Greece Government
+:Greece Economy
+:Greece Economy
+:Greece Communications
+:Greece Defense Forces
+:Greenland Geography
+:Greenland People
+:Greenland Government
+:Greenland Economy
+:Greenland Communications
+:Greenland Defense Forces
+:Grenada Geography
+:Grenada People
+:Grenada Government
+:Grenada Government
+:Grenada Economy
+:Grenada Communications
+:Grenada Defense Forces
+:Guadeloupe Geography
+:Guadeloupe People
+:Guadeloupe Government
+:Guadeloupe Government
+:Guadeloupe Economy
+:Guadeloupe Communications
+:Guadeloupe Defense Forces
+:Guam Geography
+:Guam People
+:Guam Government
+:Guam Economy
+:Guam Communications
+:Guam Defense Forces
+:Guatemala Geography
+:Guatemala People
+:Guatemala Government
+:Guatemala Government
+:Guatemala Economy
+:Guatemala Communications
+:Guatemala Defense Forces
+:Guernsey Geography
+:Guernsey People
+:Guernsey Government
+:Guernsey Economy
+:Guernsey Communications
+:Guernsey Defense Forces
+:Guinea Geography
+:Guinea People
+:Guinea Government
+:Guinea Economy
+:Guinea Communications
+:Guinea Defense Forces
+:Guinea-Bissau Geography
+:Guinea-Bissau People
+:Guinea-Bissau Government
+:Guinea-Bissau Government
+:Guinea-Bissau Economy
+:Guinea-Bissau Communications
+:Guinea-Bissau Defense Forces
+:Guyana Geography
+:Guyana People
+:Guyana Government
+:Guyana Government
+:Guyana Economy
+:Guyana Economy
+:Guyana Communications
+:Guyana Defense Forces
+:Haiti Geography
+:Haiti People
+:Haiti Government
+:Haiti Government
+:Haiti Economy
+:Haiti Communications
+:Haiti Defense Forces
+:Heard Island and McDonald Islands Geography
+:Heard Island and McDonald Islands People
+:Heard Island and McDonald Islands Government
+:Heard Island and McDonald Islands Economy
+:Heard Island and McDonald Islands Communications
+:Heard Island and McDonald Islands Defense Forces
+:Holy See (Vatican City) Geography
+:Holy See (Vatican City) People
+:Holy See (Vatican City) Government
+:Holy See (Vatican City) Economy
+:Holy See (Vatican City) Communications
+:Holy See (Vatican City) Defense Forces
+:Honduras Geography
+:Honduras People
+:Honduras Government
+:Honduras Government
+:Honduras Economy
+:Honduras Economy
+:Honduras Communications
+:Honduras Defense Forces
+:Hong Kong Geography
+:Hong Kong People
+:Hong Kong Government
+:Hong Kong Government
+:Hong Kong Economy
+:Hong Kong Communications
+:Hong Kong Defense Forces
+:Howland Island Geography
+:Howland Island People
+:Howland Island Government
+:Howland Island Economy
+:Howland Island Communications
+:Howland Island Defense Forces
+:Hungary Geography
+:Hungary People
+:Hungary Government
+:Hungary Government
+:Hungary Economy
+:Hungary Economy
+:Hungary Communications
+:Hungary Defense Forces
+:Iceland Geography
+:Iceland People
+:Iceland Government
+:Iceland Government
+:Iceland Economy
+:Iceland Economy
+:Iceland Communications
+:Iceland Defense Forces
+:India Geography
+:India People
+:India Government
+:India Government
+:India Economy
+:India Economy
+:India Communications
+:India Defense Forces
+:Indian Ocean Geography
+:Indian Ocean Economy
+:Indian Ocean Communications
+:Indonesia Geography
+:Indonesia People
+:Indonesia Government
+:Indonesia Government
+:Indonesia Economy
+:Indonesia Economy
+:Indonesia Communications
+:Indonesia Defense Forces
+:Iran Geography
+:Iran People
+:Iran Government
+:Iran Government
+:Iran Economy
+:Iran Economy
+:Iran Communications
+:Iran Defense Forces
+:Iraq Geography
+:Iraq People
+:Iraq Government
+:Iraq Government
+:Iraq Economy
+:Iraq Economy
+:Iraq Communications
+:Iraq Defense Forces
+:Ireland Geography
+:Ireland People
+:Ireland Government
+:Ireland Government
+:Ireland Economy
+:Ireland Communications
+:Ireland Defense Forces
+:Israel Header
+:Israel Geography
+:Israel People
+:Israel Government
+:Israel Government
+:Israel Economy
+:Israel Economy
+:Israel Communications
+:Israel Defense Forces
+:Italy Geography
+:Italy People
+:Italy Government
+:Italy Government
+:Italy Economy
+:Italy Economy
+:Italy Communications
+:Italy Defense Forces
+:Ivory Coast Geography
+:Ivory Coast People
+:Ivory Coast Government
+:Ivory Coast Government
+:Ivory Coast Economy
+:Ivory Coast Economy
+:Ivory Coast Communications
+:Ivory Coast Defense Forces
+:Jamaica Geography
+:Jamaica People
+:Jamaica Government
+:Jamaica Economy
+:Jamaica Economy
+:Jamaica Communications
+:Jamaica Defense Forces
+:Jan Mayen Geography
+:Jan Mayen People
+:Jan Mayen Government
+:Jan Mayen Economy
+:Jan Mayen Communications
+:Jan Mayen Defense Forces
+:Japan Geography
+:Japan People
+:Japan Government
+:Japan Government
+:Japan Economy
+:Japan Economy
+:Japan Communications
+:Japan Defense Forces
+:Jarvis Island Geography
+:Jarvis Island People
+:Jarvis Island Government
+:Jarvis Island Economy
+:Jarvis Island Communications
+:Jarvis Island Defense Forces
+:Jersey Geography
+:Jersey People
+:Jersey Government
+:Jersey Economy
+:Jersey Communications
+:Jersey Defense Forces
+:Johnston Atoll Geography
+:Johnston Atoll People
+:Johnston Atoll Government
+:Johnston Atoll Economy
+:Johnston Atoll Communications
+:Johnston Atoll Defense Forces
+:Jordan Geography
+:Jordan People
+:Jordan Government
+:Jordan Government
+:Jordan Economy
+:Jordan Economy
+:Jordan Communications
+:Jordan Defense Forces
+:Juan de Nova Island Geography
+:Juan de Nova Island People
+:Juan de Nova Island Government
+:Juan de Nova Island Economy
+:Juan de Nova Island Communications
+:Juan de Nova Island Defense Forces
+:Kazakhstan Geography
+:Kazakhstan People
+:Kazakhstan Government
+:Kazakhstan Economy
+:Kazakhstan Economy
+:Kazakhstan Communications
+:Kazakhstan Defense Forces
+:Kenya Geography
+:Kenya People
+:Kenya Government
+:Kenya Government
+:Kenya Economy
+:Kenya Economy
+:Kenya Communications
+:Kenya Defense Forces
+:Kingman Reef Geography
+:Kingman Reef People
+:Kingman Reef Government
+:Kingman Reef Economy
+:Kingman Reef Communications
+:Kingman Reef Defense Forces
+:Kiribati Geography
+:Kiribati People
+:Kiribati Government
+:Kiribati Economy
+:Kiribati Communications
+:Kiribati Defense Forces
+:Korea, North Geography
+:Korea, North People
+:Korea, North Government
+:Korea, North Government
+:Korea, North Economy
+:Korea, North Economy
+:Korea, North Communications
+:Korea, North Defense Forces
+:Korea, South Geography
+:Korea, South People
+:Korea, South Government
+:Korea, South Government
+:Korea, South Economy
+:Korea, South Economy
+:Korea, South Communications
+:Korea, South Defense Forces
+:Kuwait Geography
+:Kuwait People
+:Kuwait Government
+:Kuwait Government
+:Kuwait Economy
+:Kuwait Economy
+:Kuwait Communications
+:Kuwait Defense Forces
+:Kyrgyzstan Geography
+:Kyrgyzstan People
+:Kyrgyzstan Government
+:Kyrgyzstan Government
+:Kyrgyzstan Economy
+:Kyrgyzstan Communications
+:Kyrgyzstan Defense Forces
+:Laos Geography
+:Laos People
+:Laos Government
+:Laos Government
+:Laos Economy
+:Laos Economy
+:Laos Communications
+:Laos Defense Forces
+:Latvia Geography
+:Latvia People
+:Latvia Government
+:Latvia Government
+:Latvia Economy
+:Latvia Economy
+:Latvia Communications
+:Latvia Defense Forces
+:Lebanon Geography
+:Lebanon People
+:Lebanon Government
+:Lebanon Government
+:Lebanon Government
+:Lebanon Economy
+:Lebanon Economy
+:Lebanon Communications
+:Lebanon Defense Forces
+:Lesotho Geography
+:Lesotho People
+:Lesotho Government
+:Lesotho Government
+:Lesotho Economy
+:Lesotho Economy
+:Lesotho Communications
+:Lesotho Defense Forces
+:Liberia Geography
+:Liberia People
+:Liberia Government
+:Liberia Government
+:Liberia Economy
+:Liberia Economy
+:Liberia Communications
+:Liberia Defense Forces
+:Libya Geography
+:Libya People
+:Libya Government
+:Libya Government
+:Libya Economy
+:Libya Economy
+:Libya Communications
+:Libya Defense Forces
+:Liechtenstein Geography
+:Liechtenstein People
+:Liechtenstein Government
+:Liechtenstein Economy
+:Liechtenstein Communications
+:Liechtenstein Defense Forces
+:Lithuania Geography
+:Lithuania People
+:Lithuania Government
+:Lithuania Government
+:Lithuania Economy
+:Lithuania Economy
+:Lithuania Communications
+:Lithuania Defense Forces
+:Luxembourg Geography
+:Luxembourg People
+:Luxembourg Government
+:Luxembourg Government
+:Luxembourg Economy
+:Luxembourg Communications
+:Luxembourg Defense Forces
+:Macau Geography
+:Macau People
+:Macau Government
+:Macau Economy
+:Macau Communications
+:Macau Defense Forces
+:Macedonia Header
+:Macedonia Geography
+:Macedonia People
+:Macedonia Government
+:Macedonia Economy
+:Macedonia Economy
+:Macedonia Communications
+:Macedonia Defense Forces
+:Madagascar Geography
+:Madagascar People
+:Madagascar Government
+:Madagascar Government
+:Madagascar Economy
+:Madagascar Economy
+:Madagascar Communications
+:Madagascar Defense Forces
+:Malawi Geography
+:Malawi People
+:Malawi Government
+:Malawi Economy
+:Malawi Communications
+:Malawi Defense Forces
+:Malaysia Geography
+:Malaysia People
+:Malaysia Government
+:Malaysia Government
+:Malaysia Economy
+:Malaysia Economy
+:Malaysia Communications
+:Malaysia Defense Forces
+:Maldives Geography
+:Maldives People
+:Maldives Government
+:Maldives Economy
+:Maldives Communications
+:Maldives Defense Forces
+:Mali Geography
+:Mali People
+:Mali Government
+:Mali Government
+:Mali Economy
+:Mali Communications
+:Mali Defense Forces
+:Malta Geography
+:Malta People
+:Malta Government
+:Malta Economy
+:Malta Communications
+:Malta Defense Forces
+:Man, Isle of Geography
+:Man, Isle of People
+:Man, Isle of Government
+:Man, Isle of Economy
+:Man, Isle of Communications
+:Man, Isle of Defense Forces
+:Marshall Islands Geography
+:Marshall Islands People
+:Marshall Islands Government
+:Marshall Islands Economy
+:Marshall Islands Communications
+:Marshall Islands Defense Forces
+:Martinique Geography
+:Martinique People
+:Martinique Government
+:Martinique Government
+:Martinique Economy
+:Martinique Communications
+:Martinique Defense Forces
+:Mauritania Geography
+:Mauritania People
+:Mauritania Government
+:Mauritania Government
+:Mauritania Economy
+:Mauritania Economy
+:Mauritania Communications
+:Mauritania Defense Forces
+:Mauritius Geography
+:Mauritius People
+:Mauritius Government
+:Mauritius Government
+:Mauritius Economy
+:Mauritius Communications
+:Mauritius Defense Forces
+:Mayotte Geography
+:Mayotte People
+:Mayotte Government
+:Mayotte Economy
+:Mayotte Communications
+:Mayotte Defense Forces
+:Mexico Geography
+:Mexico People
+:Mexico Government
+:Mexico Government
+:Mexico Economy
+:Mexico Economy
+:Mexico Communications
+:Mexico Defense Forces
+:Micronesia, Federated States of Geography
+:Micronesia, Federated States of People
+:Micronesia, Federated States of Government
+:Micronesia, Federated States of Economy
+:Micronesia, Federated States of Communications
+:Micronesia, Federated States of Defense Forces
+:Midway Islands Geography
+:Midway Islands People
+:Midway Islands Government
+:Midway Islands Economy
+:Midway Islands Communications
+:Midway Islands Defense Forces
+:Moldova Geography
+:Moldova People
+:Moldova Government
+:Moldova Government
+:Moldova Economy
+:Moldova Economy
+:Moldova Communications
+:Moldova Defense Forces
+:Monaco Geography
+:Monaco People
+:Monaco Government
+:Monaco Economy
+:Monaco Communications
+:Monaco Defense Forces
+:Mongolia Geography
+:Mongolia People
+:Mongolia Government
+:Mongolia Government
+:Mongolia Economy
+:Mongolia Economy
+:Mongolia Communications
+:Mongolia Defense Forces
+:Montserrat Geography
+:Montserrat People
+:Montserrat Government
+:Montserrat Economy
+:Montserrat Communications
+:Montserrat Defense Forces
+:Morocco Geography
+:Morocco People
+:Morocco Government
+:Morocco Government
+:Morocco Economy
+:Morocco Economy
+:Morocco Communications
+:Morocco Defense Forces
+:Mozambique Geography
+:Mozambique People
+:Mozambique Government
+:Mozambique Government
+:Mozambique Economy
+:Mozambique Economy
+:Mozambique Communications
+:Mozambique Defense Forces
+:Namibia Geography
+:Namibia People
+:Namibia Government
+:Namibia Government
+:Namibia Economy
+:Namibia Communications
+:Namibia Defense Forces
+:Nauru Geography
+:Nauru People
+:Nauru Government
+:Nauru Economy
+:Nauru Communications
+:Nauru Defense Forces
+:Navassa Island Geography
+:Navassa Island People
+:Navassa Island Government
+:Navassa Island Economy
+:Navassa Island Communications
+:Navassa Island Defense Forces
+:Nepal Geography
+:Nepal People
+:Nepal Government
+:Nepal Government
+:Nepal Economy
+:Nepal Economy
+:Nepal Communications
+:Nepal Defense Forces
+:Netherlands Geography
+:Netherlands People
+:Netherlands Government
+:Netherlands Government
+:Netherlands Economy
+:Netherlands Economy
+:Netherlands Communications
+:Netherlands Defense Forces
+:Netherlands Antilles Geography
+:Netherlands Antilles People
+:Netherlands Antilles Government
+:Netherlands Antilles Government
+:Netherlands Antilles Economy
+:Netherlands Antilles Communications
+:Netherlands Antilles Defense Forces
+:New Caledonia Geography
+:New Caledonia People
+:New Caledonia Government
+:New Caledonia Economy
+:New Caledonia Communications
+:New Caledonia Defense Forces
+:New Zealand Geography
+:New Zealand People
+:New Zealand Government
+:New Zealand Government
+:New Zealand Economy
+:New Zealand Communications
+:New Zealand Defense Forces
+:Nicaragua Geography
+:Nicaragua People
+:Nicaragua Government
+:Nicaragua Government
+:Nicaragua Economy
+:Nicaragua Economy
+:Nicaragua Communications
+:Nicaragua Defense Forces
+:Niger Geography
+:Niger People
+:Niger Government
+:Niger Government
+:Niger Economy
+:Niger Economy
+:Niger Communications
+:Niger Defense Forces
+:Nigeria Geography
+:Nigeria People
+:Nigeria Government
+:Nigeria Government
+:Nigeria Economy
+:Nigeria Economy
+:Nigeria Communications
+:Nigeria Defense Forces
+:Niue Geography
+:Niue People
+:Niue Government
+:Niue Economy
+:Niue Communications
+:Niue Defense Forces
+:Norfolk Island Geography
+:Norfolk Island People
+:Norfolk Island Government
+:Norfolk Island Economy
+:Norfolk Island Communications
+:Norfolk Island Defense Forces
+:Northern Mariana Islands Geography
+:Northern Mariana Islands People
+:Northern Mariana Islands Government
+:Northern Mariana Islands Economy
+:Northern Mariana Islands Communications
+:Northern Mariana Islands Defense Forces
+:Norway Geography
+:Norway People
+:Norway Government
+:Norway Government
+:Norway Economy
+:Norway Economy
+:Norway Communications
+:Norway Defense Forces
+:Oman Geography
+:Oman People
+:Oman Government
+:Oman Economy
+:Oman Communications
+:Oman Defense Forces
+:Pacific Islands, Trust Territory of the Geography
+:Pacific Islands, Trust Territory of the People
+:Pacific Islands, Trust Territory of the Government
+:Pacific Islands, Trust Territory of the Government
+:Pacific Islands, Trust Territory of the Economy
+:Pacific Islands, Trust Territory of the Communications
+:Pacific Islands, Trust Territory of the Defense Forces
+:Pacific Ocean Geography
+:Pacific Ocean Economy
+:Pacific Ocean Communications
+:Pakistan Geography
+:Pakistan People
+:Pakistan Government
+:Pakistan Government
+:Pakistan Economy
+:Pakistan Economy
+:Pakistan Communications
+:Pakistan Defense Forces
+:Palmyra Atoll Geography
+:Palmyra Atoll People
+:Palmyra Atoll Government
+:Palmyra Atoll Economy
+:Palmyra Atoll Communications
+:Palmyra Atoll Defense Forces
+:Panama Geography
+:Panama People
+:Panama Government
+:Panama Government
+:Panama Economy
+:Panama Communications
+:Panama Defense Forces
+:Papua New Guinea Geography
+:Papua New Guinea People
+:Papua New Guinea Government
+:Papua New Guinea Government
+:Papua New Guinea Economy
+:Papua New Guinea Communications
+:Papua New Guinea Defense Forces
+:Paracel Islands Geography
+:Paracel Islands People
+:Paracel Islands Government
+:Paracel Islands Economy
+:Paracel Islands Communications
+:Paracel Islands Defense Forces
+:Paraguay Geography
+:Paraguay People
+:Paraguay Government
+:Paraguay Government
+:Paraguay Economy
+:Paraguay Economy
+:Paraguay Communications
+:Paraguay Defense Forces
+:Peru Geography
+:Peru People
+:Peru Government
+:Peru Government
+:Peru Economy
+:Peru Economy
+:Peru Communications
+:Peru Defense Forces
+:Philippines Geography
+:Philippines People
+:Philippines Government
+:Philippines Government
+:Philippines Economy
+:Philippines Economy
+:Philippines Communications
+:Philippines Defense Forces
+:Pitcairn Islands Geography
+:Pitcairn Islands People
+:Pitcairn Islands Government
+:Pitcairn Islands Economy
+:Pitcairn Islands Communications
+:Pitcairn Islands Defense Forces
+:Poland Geography
+:Poland People
+:Poland Government
+:Poland Government
+:Poland Government
+:Poland Economy
+:Poland Economy
+:Poland Communications
+:Poland Defense Forces
+:Portugal Geography
+:Portugal People
+:Portugal Government
+:Portugal Government
+:Portugal Economy
+:Portugal Economy
+:Portugal Communications
+:Portugal Defense Forces
+:Puerto Rico Geography
+:Puerto Rico People
+:Puerto Rico Government
+:Puerto Rico Government
+:Puerto Rico Economy
+:Puerto Rico Communications
+:Puerto Rico Defense Forces
+:Qatar Geography
+:Qatar People
+:Qatar Government
+:Qatar Economy
+:Qatar Communications
+:Qatar Defense Forces
+:Reunion Geography
+:Reunion People
+:Reunion Government
+:Reunion Government
+:Reunion Economy
+:Reunion Economy
+:Reunion Communications
+:Reunion Defense Forces
+:Romania Geography
+:Romania People
+:Romania Government
+:Romania Government
+:Romania Economy
+:Romania Economy
+:Romania Communications
+:Romania Defense Forces
+:Russia Geography
+:Russia People
+:Russia Government
+:Russia Government
+:Russia Economy
+:Russia Economy
+:Russia Communications
+:Russia Defense Forces
+:Rwanda Geography
+:Rwanda People
+:Rwanda Government
+:Rwanda Government
+:Rwanda Economy
+:Rwanda Economy
+:Rwanda Communications
+:Rwanda Defense Forces
+:Saint Helena Geography
+:Saint Helena People
+:Saint Helena Government
+:Saint Helena Economy
+:Saint Helena Communications
+:Saint Helena Defense Forces
+:Saint Kitts and Nevis Geography
+:Saint Kitts and Nevis People
+:Saint Kitts and Nevis Government
+:Saint Kitts and Nevis Government
+:Saint Kitts and Nevis Economy
+:Saint Kitts and Nevis Communications
+:Saint Kitts and Nevis Defense Forces
+:Saint Lucia Geography
+:Saint Lucia People
+:Saint Lucia Government
+:Saint Lucia Economy
+:Saint Lucia Communications
+:Saint Lucia Defense Forces
+:Saint Pierre and Miquelon Geography
+:Saint Pierre and Miquelon People
+:Saint Pierre and Miquelon Government
+:Saint Pierre and Miquelon Economy
+:Saint Pierre and Miquelon Communications
+:Saint Pierre and Miquelon Defense Forces
+:Saint Vincent and the Grenadines Geography
+:Saint Vincent and the Grenadines People
+:Saint Vincent and the Grenadines Government
+:Saint Vincent and the Grenadines Economy
+:Saint Vincent and the Grenadines Communications
+:Saint Vincent and the Grenadines Defense Forces
+:San Marino Geography
+:San Marino People
+:San Marino Government
+:San Marino Government
+:San Marino Economy
+:San Marino Communications
+:San Marino Defense Forces
+:Sao Tome and Principe Geography
+:Sao Tome and Principe People
+:Sao Tome and Principe Government
+:Sao Tome and Principe Government
+:Sao Tome and Principe Economy
+:Sao Tome and Principe Economy
+:Sao Tome and Principe Communications
+:Sao Tome and Principe Defense Forces
+:Saudi Arabia Geography
+:Saudi Arabia People
+:Saudi Arabia Government
+:Saudi Arabia Economy
+:Saudi Arabia Communications
+:Saudi Arabia Defense Forces
+:Senegal Geography
+:Senegal People
+:Senegal Government
+:Senegal Government
+:Senegal Economy
+:Senegal Economy
+:Senegal Communications
+:Senegal Defense Forces
+:Serbia and Montenegro Geography
+:Serbia and Montenegro People
+:Serbia and Montenegro Government
+:Serbia and Montenegro Economy
+:Serbia and Montenegro Economy
+:Serbia and Montenegro Communications
+:Serbia and Montenegro Defense Forces
+:Seychelles Geography
+:Seychelles People
+:Seychelles Government
+:Seychelles Government
+:Seychelles Economy
+:Seychelles Communications
+:Seychelles Defense Forces
+:Sierra Leone Geography
+:Sierra Leone People
+:Sierra Leone Government
+:Sierra Leone Economy
+:Sierra Leone Economy
+:Sierra Leone Communications
+:Sierra Leone Defense Forces
+:Singapore Geography
+:Singapore People
+:Singapore Government
+:Singapore Government
+:Singapore Economy
+:Singapore Communications
+:Singapore Defense Forces
+:Slovenia Geography
+:Slovenia People
+:Slovenia Government
+:Slovenia Government
+:Slovenia Economy
+:Slovenia Economy
+:Slovenia Communications
+:Slovenia Defense Forces
+:Solomon Islands Geography
+:Solomon Islands People
+:Solomon Islands Government
+:Solomon Islands Economy
+:Solomon Islands Communications
+:Solomon Islands Defense Forces
+:Somalia Geography
+:Somalia People
+:Somalia Government
+:Somalia Government
+:Somalia Economy
+:Somalia Economy
+:Somalia Communications
+:Somalia Defense Forces
+:South Africa Geography
+:South Africa People
+:South Africa Government
+:South Africa Government
+:South Africa Economy
+:South Africa Economy
+:South Africa Communications
+:South Africa Defense Forces
+:South Georgia and the South Sandwich Islands Geography
+:South Georgia and the South Sandwich Islands People
+:South Georgia and the South Sandwich Islands Government
+:South Georgia and the South Sandwich Islands Economy
+:South Georgia and the South Sandwich Islands Communications
+:South Georgia and the South Sandwich Islands Defense Forces
+:Spain Geography
+:Spain People
+:Spain Government
+:Spain Government
+:Spain Economy
+:Spain Economy
+:Spain Communications
+:Spain Defense Forces
+:Spratly Islands Geography
+:Spratly Islands People
+:Spratly Islands Government
+:Spratly Islands Economy
+:Spratly Islands Communications
+:Spratly Islands Defense Forces
+:Sri Lanka Geography
+:Sri Lanka People
+:Sri Lanka Government
+:Sri Lanka Government
+:Sri Lanka Economy
+:Sri Lanka Communications
+:Sri Lanka Defense Forces
+:Sudan Geography
+:Sudan People
+:Sudan Government
+:Sudan Government
+:Sudan Economy
+:Sudan Economy
+:Sudan Communications
+:Sudan Defense Forces
+:Suriname Geography
+:Suriname People
+:Suriname Government
+:Suriname Government
+:Suriname Economy
+:Suriname Economy
+:Suriname Communications
+:Suriname Defense Forces
+:Svalbard Geography
+:Svalbard People
+:Svalbard Government
+:Svalbard Economy
+:Svalbard Communications
+:Svalbard Defense Forces
+:Swaziland Geography
+:Swaziland People
+:Swaziland Government
+:Swaziland Economy
+:Swaziland Communications
+:Swaziland Defense Forces
+:Sweden Geography
+:Sweden People
+:Sweden Government
+:Sweden Government
+:Sweden Economy
+:Sweden Economy
+:Sweden Communications
+:Sweden Defense Forces
+:Switzerland Geography
+:Switzerland People
+:Switzerland Government
+:Switzerland Government
+:Switzerland Economy
+:Switzerland Economy
+:Switzerland Communications
+:Switzerland Defense Forces
+:Syria Geography
+:Syria People
+:Syria Government
+:Syria Government
+:Syria Economy
+:Syria Economy
+:Syria Communications
+:Syria Defense Forces
+:Taiwan Geography
+:Taiwan People
+:Taiwan Government
+:Taiwan Government
+:Taiwan Economy
+:Taiwan Economy
+:Taiwan Communications
+:Taiwan Defense Forces
+:Tajikistan Geography
+:Tajikistan People
+:Tajikistan Government
+:Tajikistan Government
+:Tajikistan Economy
+:Tajikistan Communications
+:Tajikistan Defense Forces
+:Tanzania Geography
+:Tanzania People
+:Tanzania Government
+:Tanzania Government
+:Tanzania Economy
+:Tanzania Economy
+:Tanzania Communications
+:Tanzania Defense Forces
+:Thailand Geography
+:Thailand People
+:Thailand Government
+:Thailand Government
+:Thailand Economy
+:Thailand Economy
+:Thailand Communications
+:Thailand Defense Forces
+:Togo Geography
+:Togo People
+:Togo Government
+:Togo Government
+:Togo Economy
+:Togo Economy
+:Togo Communications
+:Togo Defense Forces
+:Tokelau Geography
+:Tokelau People
+:Tokelau Government
+:Tokelau Economy
+:Tokelau Communications
+:Tokelau Defense Forces
+:Tonga Geography
+:Tonga People
+:Tonga Government
+:Tonga Economy
+:Tonga Communications
+:Tonga Defense Forces
+:Trinidad and Tobago Geography
+:Trinidad and Tobago People
+:Trinidad and Tobago Government
+:Trinidad and Tobago Government
+:Trinidad and Tobago Economy
+:Trinidad and Tobago Economy
+:Trinidad and Tobago Communications
+:Trinidad and Tobago Defense Forces
+:Tromelin Island Geography
+:Tromelin Island People
+:Tromelin Island Government
+:Tromelin Island Economy
+:Tromelin Island Communications
+:Tromelin Island Defense Forces
+:Tunisia Geography
+:Tunisia People
+:Tunisia Government
+:Tunisia Economy
+:Tunisia Economy
+:Tunisia Communications
+:Tunisia Defense Forces
+:Turkey Geography
+:Turkey People
+:Turkey Government
+:Turkey Government
+:Turkey Economy
+:Turkey Economy
+:Turkey Communications
+:Turkey Defense Forces
+:Turkmenistan Geography
+:Turkmenistan People
+:Turkmenistan Government
+:Turkmenistan Government
+:Turkmenistan Economy
+:Turkmenistan Communications
+:Turkmenistan Defense Forces
+:Turks and Caicos Islands Geography
+:Turks and Caicos Islands People
+:Turks and Caicos Islands Government
+:Turks and Caicos Islands Economy
+:Turks and Caicos Islands Communications
+:Turks and Caicos Islands Defense Forces
+:Tuvalu Geography
+:Tuvalu People
+:Tuvalu Government
+:Tuvalu Economy
+:Tuvalu Communications
+:Tuvalu Defense Forces
+:Uganda Geography
+:Uganda People
+:Uganda Government
+:Uganda Government
+:Uganda Economy
+:Uganda Economy
+:Uganda Communications
+:Uganda Defense Forces
+:Ukraine Geography
+:Ukraine People
+:Ukraine Government
+:Ukraine Government
+:Ukraine Economy
+:Ukraine Economy
+:Ukraine Communications
+:Ukraine Defense Forces
+:United Arab Emirates Geography
+:United Arab Emirates People
+:United Arab Emirates Government
+:United Arab Emirates Economy
+:United Arab Emirates Communications
+:United Arab Emirates Defense Forces
+:United Kingdom Geography
+:United Kingdom People
+:United Kingdom Government
+:United Kingdom Government
+:United Kingdom Economy
+:United Kingdom Economy
+:United Kingdom Communications
+:United Kingdom Defense Forces
+:United States Geography
+:United States People
+:United States Government
+:United States Government
+:United States Economy
+:United States Economy
+:United States Communications
+:United States Defense Forces
+:Uruguay Geography
+:Uruguay People
+:Uruguay Government
+:Uruguay Government
+:Uruguay Economy
+:Uruguay Economy
+:Uruguay Communications
+:Uruguay Defense Forces
+:Uzbekistan Geography
+:Uzbekistan People
+:Uzbekistan Government
+:Uzbekistan Government
+:Uzbekistan Economy
+:Uzbekistan Communications
+:Uzbekistan Defense Forces
+:Vanuatu Geography
+:Vanuatu People
+:Vanuatu Government
+:Vanuatu Economy
+:Vanuatu Communications
+:Vanuatu Defense Forces
+:Venezuela Geography
+:Venezuela People
+:Venezuela Government
+:Venezuela Government
+:Venezuela Economy
+:Venezuela Economy
+:Venezuela Communications
+:Venezuela Defense Forces
+:Vietnam Geography
+:Vietnam People
+:Vietnam Government
+:Vietnam Economy
+:Vietnam Economy
+:Vietnam Communications
+:Vietnam Defense Forces
+:Virgin Islands Geography
+:Virgin Islands People
+:Virgin Islands Government
+:Virgin Islands Economy
+:Virgin Islands Communications
+:Virgin Islands Defense Forces
+:Wake Island Geography
+:Wake Island People
+:Wake Island Government
+:Wake Island Economy
+:Wake Island Communications
+:Wake Island Defense Forces
+:Wallis and Futuna Geography
+:Wallis and Futuna People
+:Wallis and Futuna Government
+:Wallis and Futuna Economy
+:Wallis and Futuna Communications
+:Wallis and Futuna Defense Forces
+:West Bank Header
+:West Bank Geography
+:West Bank People
+:West Bank Government
+:West Bank Economy
+:West Bank Economy
+:West Bank Communications
+:West Bank Defense Forces
+:Western Sahara Geography
+:Western Sahara People
+:Western Sahara Government
+:Western Sahara Economy
+:Western Sahara Communications
+:Western Sahara Defense Forces
+:Western Samoa Geography
+:Western Samoa People
+:Western Samoa Government
+:Western Samoa Economy
+:Western Samoa Communications
+:Western Samoa Defense Forces
+:World Geography
+:World Geography
+:World People
+:World Government
+:World Economy
+:World Economy
+:World Communications
+:World Defense Forces
+:Yemen Geography
+:Yemen People
+:Yemen Government
+:Yemen Government
+:Yemen Economy
+:Yemen Economy
+:Yemen Communications
+:Yemen Defense Forces
+:Zaire Geography
+:Zaire People
+:Zaire Government
+:Zaire Government
+:Zaire Economy
+:Zaire Economy
+:Zaire Communications
+:Zaire Defense Forces
+:Zambia Geography
+:Zambia People
+:Zambia Government
+:Zambia Economy
+:Zambia Communications
+:Zambia Defense Forces
+:Zimbabwe Geography
+:Zimbabwe People
+:Zimbabwe Government
+:Zimbabwe Government
+:Zimbabwe Economy
+:Zimbabwe Economy
+:Zimbabwe Communications
+:Zimbabwe Defense Forces
